@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Validate the DC2 Mock Lightcone and Twinkles 2 mocks
 
 Summary -- Once the input catalogs have been generated, there will be a validation phase that will use the
 validation framework [Deliverable CS4.1](http://github.com/DarkEnergyScienceCollaboration/CS4.1) to compare observational and simulated data.
